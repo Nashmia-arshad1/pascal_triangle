@@ -3,5 +3,6 @@ This C++ project implements a program to generate Pascal's Triangle, a well-know
 # 2nd project
 This c++ program is used two take two binary numbers as string and output result as the addition of both of these Binary number .
 # 3rd project
-This program defines a Matrix class that handles basic matrix operations such as addition and subtraction.
+This program defines a Matrix class that handles basic matrix operations such as addition and subtraction.<br>
+Updating this md file
 
